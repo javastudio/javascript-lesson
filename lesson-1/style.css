@@ -1,0 +1,11 @@
+body {
+    width: 100%;
+    max-width: 800px;
+    margin: 5em auto;
+}
+
+.wrapper {
+    border: 1px solid #ddd;
+    padding: 1.5em 1em;
+    border-radius: 4px;
+}  
